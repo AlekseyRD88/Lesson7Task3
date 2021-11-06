@@ -4,7 +4,7 @@
    color: orange;
 }
 .theory::first-line {
-   font-size: 36px;
+   font-size: 24px;
 }
 .theory::selection {
    background-color: red;
